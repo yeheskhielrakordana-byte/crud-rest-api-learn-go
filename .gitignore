@@ -1,0 +1,11 @@
+# Binary
+golang-crud-api
+
+# Environment
+.env
+*.env
+
+# Go
+*.test
+*.out
+vendor/
