@@ -1,9 +1,14 @@
 # Binary
 golang-crud-api
+mcp-server/mcp-server-bin
 
 # Environment
 .env
 *.env
+
+# Claude Code (contains DB credentials)
+.claude/settings.json
+.claude/settings.local.json
 
 # Go
 *.test
